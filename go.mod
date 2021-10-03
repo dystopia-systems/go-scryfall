@@ -1,4 +1,4 @@
-module github.com/BlueMonday/go-scryfall
+module github.com/dystopia-systems/go-scryfall
 
 go 1.11
 
